@@ -1,3 +1,4 @@
+<img src="img/banner.png>
 <h1>HealthTuring - Aplicación Web Sanitaria</h1>
     <p>Esta aplicación web está diseñada para gestionar información médica de pacientes, programar citas y facilitar la comunicación entre profesionales de la salud.</p>
 
